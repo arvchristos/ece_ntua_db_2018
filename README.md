@@ -15,6 +15,7 @@ This application supports basic CRUD(Create Read Update Delete) operations for e
 
 ## Demo
 You can view a demo hosted at 000webhost [here](https://ecedb2.000webhostapp.com/final/).
+![databases screenshot](https://github.com/arvchristos/ece_ntua_db_2018/raw/master/docs/databases_screenshot.png)
 
 ## Built with
 * PHP
